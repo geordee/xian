@@ -7,7 +7,7 @@ categories: thoughts
 tags:       
 ---
 
-> "No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse. - Mark 2:21"
+> "No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse." - Mark 2:21
 
 A few years back, we attempted to build a product for legal professionals. It was to store the electronic copies of court judgments in India and its digital summaries, for easy reference and citation. Where the law is not explicit or clear, these judgments can be used as precedences to argue the case. These "case laws" guide and conserve the line of interpretation of statutory laws.
 
