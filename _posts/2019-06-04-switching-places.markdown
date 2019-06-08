@@ -3,8 +3,8 @@ layout:     post
 title:      "Switching Places"
 date:       2019-06-04 01:20:23
 author:     geordee
-categories: thoughts
-tags:       
+categories: studies
+tags:       [mark]
 ---
 
 I have started reading the Gospel of Mark. To keep the habit going on, I decided to "mark my words"; in this blog.

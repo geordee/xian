@@ -4,7 +4,7 @@ title:      "From Daring To Disappointment"
 date:       2012-08-11 02:51:08
 author:     geordee
 categories: thoughts
-tags:       
+tags:       [1 kings]
 ---
 
 One of my favourite Bible studies and character is Elijah. He is still considered to be one of the greatest prophets, who was equalled with Moses during the transfiguration of Jesus. While studying Elijah, one thing that remains in my memory - he was vulnerable; often referred as Elijah syndrome, which I do not agree with.

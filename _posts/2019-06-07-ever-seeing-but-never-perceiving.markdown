@@ -3,8 +3,8 @@ layout:     post
 title:      "Ever Seeing But Never Perceiving"
 date:       2019-06-07 11:33:58
 author:     geordee
-categories: thoughts
-tags:       
+categories: studies
+tags:       [mark]
 ---
 
 The parables are stories with deeper meanings. The beauty of the parable is that it is independent of the local context or time. Still, it was relevant in the time and context when the parable was told.

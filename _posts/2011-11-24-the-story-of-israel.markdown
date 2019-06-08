@@ -4,7 +4,7 @@ title:      "The Story of Israel"
 date:       2011-11-24 23:59:22
 author:     geordee
 categories: studies
-tags:       
+tags:       [romans]
 ---
 
 I have been always fascinated with Romans. Part of it is the thrill of unraveling the mysteries from the Old Testament era. Paul helps us understand the prophecies and symbols that were present in the Torah. It is another thing to read through Paul's writings to understand what it meant to the Christian's in the first century. And finally, how it all applies to us today.

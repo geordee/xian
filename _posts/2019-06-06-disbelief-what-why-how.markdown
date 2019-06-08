@@ -3,8 +3,8 @@ layout:     post
 title:      "Disbelief – What, Why & How"
 date:       2019-06-06 06:32:22
 author:     geordee
-categories: thoughts
-tags:       
+categories: studies
+tags:       [mark]
 ---
 
 > When his family heard about this, they went to take charge of him, for they said, "He is out of his mind." - Mark 3:21

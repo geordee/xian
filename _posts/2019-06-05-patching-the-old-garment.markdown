@@ -3,8 +3,8 @@ layout:     post
 title:      "Patching The Old Garment"
 date:       2019-06-05 07:10:14
 author:     geordee
-categories: thoughts
-tags:       
+categories: studies
+tags:       [mark]
 ---
 
 > "No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse." - Mark 2:21
