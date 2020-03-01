@@ -4,7 +4,7 @@ title:      "The Personal Exodus"
 date:       2013-11-24 07:40:03
 author:     geordee
 categories: thoughts
-tags:       
+tags:
 ---
 
 > "I took care of you in the wilderness, in that dry and thirsty land".
